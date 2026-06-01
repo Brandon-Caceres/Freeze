@@ -1,0 +1,9 @@
+idUsuario,idJuego,fechaCompra,metodoDePago,horasJugadas,estadoJugando,puntaje,comentario
+1,1,2024-01-15 14:00:00,Tarjeta de Crédito,45,0,10,Un clásico imprescindible.
+1,8,2025-06-20 18:30:00,PayPal,120,0,9,La mejor historia.
+1,39,2026-03-10 10:00:00,Tarjeta de Crédito,200,1,10,Juego del año.
+2,6,2023-12-25 09:00:00,Tarjeta de Regalo,500,1,10,El mejor shooter.
+2,24,2025-11-15 20:00:00,PayPal,85,0,8,Un clásico de estrategia.
+3,19,2022-01-10 20:00:00,Tarjeta de Débito,1000,1,10,No puedo dejar de construir.
+3,20,2024-05-05 16:00:00,Tarjeta de Crédito,300,0,9,La fábrica debe crecer.
+4,50,2023-08-14 12:00:00,Gratis,400,1,9,Excelente battle royale.

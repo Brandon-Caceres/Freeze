@@ -1,0 +1,51 @@
+idJuego,nombre,clasificacion,version,precio,idEstudio
+1,Half-Life 2,M,1.0,9.99,1
+2,Portal,T,1.0,9.99,1
+3,Portal 2,E10+,1.0,9.99,1
+4,Left 4 Dead 2,M,1.0,9.99,1
+5,Team Fortress 2,M,1.0,0.00,1
+6,Counter-Strike 2,M,1.39,0.00,1
+7,Dota 2,T,7.35,0.00,1
+8,The Witcher 3: Wild Hunt,M,4.0,39.99,2
+9,Cyberpunk 2077,M,2.1,59.99,2
+10,Baldur's Gate 3,M,Patch 6,59.99,3
+11,Divinity: Original Sin 2,M,3.6,44.99,3
+12,The Elder Scrolls V: Skyrim,M,1.6,39.99,4
+13,Fallout 4,M,1.10,19.99,4
+14,Fallout: New Vegas,M,1.4,9.99,4
+15,DOOM (2016),M,6.66,19.99,5
+16,DOOM Eternal,M,6.66,39.99,5
+17,Terraria,T,1.4.4,9.99,6
+18,Stardew Valley,E10+,1.6,14.99,7
+19,Minecraft,E10+,1.20,29.99,8
+20,Factorio,E,1.1,35.00,9
+21,RimWorld,M,1.4,34.99,10
+22,Civilization VI,E10+,1.0,59.99,11
+23,Age of Empires II: Definitive,T,1.0,19.99,12
+24,StarCraft II,T,5.0,0.00,13
+25,Hollow Knight,E10+,1.5,14.99,14
+26,Celeste,E10+,1.4,19.99,15
+27,Dead Cells,T,3.4,24.99,16
+28,Hades,T,1.3,24.99,17
+29,Slay the Spire,T,2.3,24.99,18
+30,The Binding of Isaac: Rebirth,M,1.7,14.99,19
+31,Subnautica,E10+,2.0,29.99,20
+32,Outer Wilds,E10+,1.1,24.99,21
+33,No Man's Sky,T,4.4,59.99,22
+34,Rust,M,1.0,39.99,23
+35,Grand Theft Auto V,M,1.67,29.99,24
+36,Red Dead Redemption 2,M,1.31,59.99,24
+37,Sekiro: Shadows Die Twice,M,1.06,59.99,25
+38,Dark Souls III,M,1.15,59.99,25
+39,Elden Ring,M,1.10,59.99,25
+40,BioShock,M,1.0,19.99,26
+41,BioShock Infinite,M,1.0,29.99,26
+42,Dishonored,M,1.0,9.99,27
+43,Prey,M,1.0,29.99,27
+44,XCOM 2,T,1.0,59.99,11
+45,Disco Elysium,M,1.0,39.99,28
+46,Phasmophobia,M,0.9,13.99,29
+47,Among Us,E10+,2023.10,4.99,30
+48,Rocket League,E,2.34,0.00,31
+49,Valorant,T,8.0,0.00,32
+50,Apex Legends,T,20.0,0.00,33
