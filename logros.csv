@@ -1,231 +1,231 @@
-idJuego,nombre,descripcion
-1,Hardware Confiable,Consigue la palanca.
-1,Energía Cero,Consigue el arma de gravedad.
-1,Defiante,Golpea a un policía con una lata.
-1,Ciudadano Modelo,Llega vivo al laboratorio de Kleiner.
-1,Cortador de Zombis,Atraviesa Ravenholm usando solo el arma de gravedad.
-2,El pastel es mentira,Descubre la verdad sobre las pruebas.
-2,Prueba de fuego,Sobrevive al foso de fuego.
-2,Velocidad terminal,Cae 30000 pies.
-2,Rompecorazones,Incincera al cubo de compañía.
-2,Fuga,Escapa de las instalaciones de Aperture.
-3,Despierta,Sobrevive al tutorial manual.
-3,Monstruo,Despierta a GLaDOS.
-3,Patata,Completa la caída al abismo.
-3,Vuelve a la luna,Dispara un portal a la luna.
-3,Choca esos cinco,Celebra el éxito en cooperativo.
-4,Superviviente,Escapa de la primera campaña.
-4,Caza de Brujas,Mata a una bruja sin que nadie reciba daño.
-4,Masacre Zombi,Mata a 1000 infectados.
-4,Fuego Amigo,Incapacíta a un compañero por accidente.
-4,Ataque Cuerpo a Cuerpo,Sobrevive a una horda usando solo cuerpo a cuerpo.
-5,Primera Sangre,Consigue tu primera baja.
-5,Médico de Combate,Cura 1000 puntos de salud en una vida.
-5,Ingeniero Jefe,Mejora una torreta al nivel 3.
-5,Espía Maestro,Apuñala por la espalda a 10 enemigos.
-5,MVP,Termina primero en la tabla de puntuaciones.
-6,Nuevo Comienzo,Juega tu primera partida en CS2.
-6,El Limpiador,Elimina al equipo enemigo completo tú solo.
-6,Desactivador,Desactiva la bomba con menos de un segundo.
-6,Ciego,Mata a un enemigo mientras estás cegado.
-6,Especialista AK,Consigue 100 bajas con el AK-47.
-7,Primera Victoria,Gana tu primera partida de Dota.
-7,Racha,Consigue una racha de 5 asesinatos.
-7,Destructor,Destruye 3 torres enemigas en una partida.
-7,Apoyo,Coloca 50 wards en partidas exitosas.
-7,Aegis Robado,Roba el Aegis of the Immortal.
-8,Lilas y Grosellas,Encuentra a Yennefer.
-8,Rey del Gwent,Gana un torneo de Gwent de alto riesgo.
-8,Carnicero de Blaviken,Mata a 5 enemigos en 10 segundos.
-8,Mutante,Equipa un mutágeno en cada ranura.
-8,Caminante de la Senda,Completa todos los contratos.
-9,Ciudad de los Sueños,Llega a Night City.
-9,Cibernético,Instala un implante en cada sistema.
-9,Leyenda,Alcanza el máximo nivel de reputación.
-9,Pistolero,Consigue 100 bajas con revólveres.
-9,El Loco,Encuentra todos los murales del Tarot.
-10,Descenso del Averno,Escapa del Nautiloide.
-10,Sin un Centavo,Lee los pensamientos de un personaje.
-10,Maestro de Acción,Realiza 5 ataques en un solo turno.
-10,Descanso Largo,Toma un descanso completo.
-10,Heroico,Completa el juego en la dificultad más alta.
-11,Cazador de Orígenes,Escapa del Fuerte Alegría.
-11,Poder Divino,Alcanza la Divinidad.
-11,Maestro Táctico,Gana un combate sin perder aliados.
-11,Lobo Solitario,Termina usando el talento Lobo Solitario.
-11,Ladrón Maestro,Roba 10000 monedas de oro.
-12,Sangre de Dragón,Absorbe tu primera alma de dragón.
-12,Grito de Guerra,Aprende todas las palabras de un Grito.
-12,Artesano,Fabrica un objeto de ébano.
-12,Ladrón,Únete al Gremio de Ladrones.
-12,Maestro,Alcanza el nivel 100 en una escuela de magia.
-13,El Regreso,Sal del Refugio 111.
-13,Minutemen,Únete a los Minutemen.
-13,Chatarrero,Recolecta 1000 recursos.
-13,Alcalde,Alcanza 100% de felicidad en un asentamiento.
-13,Armado,Modifica un arma al máximo.
-14,Bienvenido a Vegas,Llega al Strip de New Vegas.
-14,Mensajero,Entrega el chip de platino.
-14,Superviviente,Cura 10000 de daño con comida.
-14,Discurso,Gana 50 desafíos de conversación.
-14,Rey de la Ruleta,Gana 10000 fichas en los casinos.
-15,Hasta el Cuello,Completa el primer nivel.
-15,Desgarra y Rompe,Realiza 100 ejecuciones.
-15,Armamento Pesado,Encuentra la BFG 9000.
-15,Coleccionista,Encuentra todos los coleccionables.
-15,Pesadilla,Termina en dificultad Ultra-Pesadilla.
-16,Infierno en la Tierra,Completa el primer nivel.
-16,Arsenal,Mejora todas las armas al máximo.
-16,Dash,Esquiva 100 ataques usando el Dash.
-16,Sanguinario,Realiza 50 Glory Kills con la motosierra.
-16,Slayer,Completa la campaña principal.
-17,Madera,Tala tu primer árbol.
-17,Ojo por Ojo,Derrota al Ojo de Cthulhu.
-17,Minería,Llega al inframundo.
-17,Modo Difícil,Activa el modo difícil.
-17,Señor de la Luna,Derrota al Moon Lord.
-18,Cosecha,Cosecha tu primer cultivo.
-18,Pescador,Atrapa un pez de cada tipo.
-18,Amigo,Alcanza 5 corazones con 10 personas.
-18,Mina,Llega al nivel 120 de la mina.
-18,Restaurador,Completa el Centro Comunitario.
-19,Inventario,Abre tu inventario.
-19,Edad de Piedra,Extrae piedra con pico de madera.
-19,Nether,Construye un portal al Nether.
-19,El Fin,Entra al portal del Fin.
-19,Cazador de Dragones,Derrota al Ender Dragon.
-20,Humo sobre el agua,Construye tu primera caldera.
-20,Producción,Produce 10000 circuitos.
-20,Defensa,Destruye 100 enemigos con torretas.
-20,No hay cuchara,Termina el juego en menos de 8 horas.
-20,Lanzamiento,Lanza un cohete al espacio.
-21,Aterrizaje,Sobrevive a tu primer mes.
-21,Prosperidad,Alcanza 100000 de plata.
-21,Médico,Realiza una cirugía exitosa.
-21,Invierno,Sobrevive a un invierno tóxico.
-21,Escape,Construye una nave y escapa.
-22,Fundador,Funda tu primera ciudad.
-22,Ciencia,Gana lanzando una expedición a Marte.
-22,Maravilla,Construye una Maravilla.
-22,Diplomático,Forma una alianza nivel 3.
-22,Imperio,Gana una partida en un mapa enorme.
-23,Edad Oscura,Avanza a la Edad Feudal.
-23,Wololo,Convierte 100 unidades con monjes.
-23,Arquitecto,Construye un Castillo.
-23,Conquistador,Gana una campaña completa.
-23,Rey de reyes,Derrota a 3 oponentes IA en extrema.
-24,Comandante,Completa la campaña Wings of Liberty.
-24,Enjambre,Eclosiona 1000 Zerglings.
-24,Protoss,Construye un ejército dorado.
-24,Ataque Rápido,Gana multijugador en menos de 5 min.
-24,Maestros,Alcanza la liga de Maestros.
-25,Falso Caballero,Derrota al Falso Caballero.
-25,Mapamundi,Compra el mapa de Hollownest.
-25,Aguijón,Mejora tu aguijón al máximo.
-25,Alma Pura,Completa el Palacio Blanco.
-25,Vacío,Derrota al Panteón de Hallownest.
-26,Primeros Pasos,Supera el primer capítulo.
-26,Fresas,Recoge 50 fresas.
-26,Lado B,Completa un nivel Lado B.
-26,Cima,Llega a la cima de la montaña.
-26,Despedida,Completa el capítulo 9.
-27,Escapista,Termina el juego por primera vez.
-27,Absorción,Absorbe tu primera célula de jefe.
-27,Arsenal,Desbloquea 50 armas o habilidades.
-27,Maldición,Sobrevive a una maldición.
-27,Rey,Completa con 5 Células de Jefe.
-28,Fuga,Derrota a las Furias.
-28,Sangre de Dios,Derrota a Hades.
-28,Amigos,Forja un lazo máximo.
-28,Armería,Desbloquea aspectos de armas.
-28,Verdadero Escape,Completa el epílogo.
-29,Ascensión,Supera el primer Acto.
-29,Corazón,Completa el juego con el Ironclad.
-29,Intocable,Vence a un jefe sin daño.
-29,Ilimitado,Juega 10 cartas en un turno.
-29,Final,Completa el Acto 4.
-30,Lágrimas,Completa el juego.
-30,Pacto,Haz un trato con el demonio.
-30,Satanás,Derrota a Mega Satanás.
-30,Golden God,Completa con personajes originales.
-30,Platinum God,Consigue todos los objetos.
-31,Mojándose,Entra al océano por primera vez.
-31,Hogar,Construye una base submarina.
-31,Profundidades,Alcanza la Zona Lava.
-31,Leviatán,Encuentra al Emperador Marino.
-31,Dejando el Planeta,Lanza el cohete de escape.
-32,Despegue,Lanza tu nave espacial.
-32,Ojo,Encuentra la anomalía cuántica.
-32,Historiador,Traduce todos los textos Nomai.
-32,Bucle,Sobrevive a la explosión de la supernova.
-32,Rompecabezas,Aterriza en la estación solar.
-33,Primer Salto,Realiza un salto hiperespacial.
-33,Explorador,Descubre 50 planetas diferentes.
-33,Centro,Llega al centro del universo.
-33,Linguista,Aprende 100 palabras alienígenas.
-33,Magnate,Acumula 100 millones de unidades.
-34,Bienvenido a Rust,Despierta en la playa.
-34,Constructor,Construye tu primera base.
-34,Pólvora,Fabrica tu primera arma de fuego.
-34,Incursión,Destruye una pared con C4.
-34,Alfa,Sobrevive un wipe completo sin morir.
-35,Bienvenido a Los Santos,Completa el prólogo.
-35,Atraco,Completa el golpe al Pacific Standard.
-35,Sueño,Compra un apartamento de lujo.
-35,Tuning,Mejora un vehículo al máximo.
-35,Mente Maestra,Completa el juego al 100%.
-36,Forajido,Escapa a las montañas nevadas.
-36,Redención,Completa la historia de Arthur.
-36,Cazador,Caza a todos los animales legendarios.
-36,Tesoro,Encuentra 3 tesoros ocultos.
-36,Leyenda del Oeste,Completa el juego al 100%.
-37,Brazo Shinobi,Consigue la prótesis.
-37,Muerte Desde Arriba,Ejecuta a 100 enemigos desde el aire.
-37,Inmortal,Derrota al Simio Guardián.
-37,Espadachín,Derrota a Isshin.
-37,Sekiro,Desbloquea todos los trofeos.
-38,Encender,Enciende tu primera hoguera.
-38,Señor de la Ceniza,Derrota a los Vigilantes del Abismo.
-38,Fin del Fuego,Llega al final de la Era de Fuego.
-38,Parry Perfecto,Realiza 50 contraataques.
-38,Alma Oscura,Consigue todos los logros.
-39,Sin Luz,Llega a las Tierras Intermedias.
-39,Gran Runa,Consigue la Gran Runa de Godrick.
-39,Estrellas Caídas,Derrota a Radahn.
-39,Señor de Elden,Conviértete en el Señor del Círculo.
-39,Platino,Consigue todos los logros.
-40,Bienvenido a Rapture,Llega a la ciudad submarina.
-40,Modificada,Equipa tu primer plásmido.
-40,Salvador,Rescata a todas las Little Sisters.
-40,Big Daddy,Derrota a tu primer Big Daddy.
-41,Ascensión,Llega a Columbia.
-41,Vigorizador,Usa los 8 vigores contra enemigos.
-41,Rescate,Encuentra a Elizabeth.
-41,Pájaro y Jaula,Completa el juego.
-42,Deshonrado,Escapa de la prisión.
-42,Fantasma,Completa misión sin ser detectado.
-42,Manos Limpias,Completa el juego sin matar.
-43,Buenos Días,Rompe el cristal de simulación.
-43,Neuro,Instala un alien neuromod.
-43,No Eres Tú,Mata a un Mimic disfrazado.
-44,Resistencia,Completa la misión tutorial.
-44,Táctico,Gana una misión sin perder soldados.
-44,Supremo,Completa el juego en dificultad Leyenda.
-45,Amnesia,Despierta en la habitación.
-45,Policía Bueno,Resuelve el asesinato sin violencia.
-45,Comunista,Únete al club de lectura.
-46,Buscador,Completa tu primer contrato.
-46,Superviviente,Sobrevive a una cacería.
-46,Profesional,Identifica al fantasma en Profesional.
-47,Tripulante,Completa tus tareas.
-47,Impostor,Gana una partida como el Impostor.
-47,Detective,Vota correctamente al impostor 5 veces.
-48,Primer Gol,Marca un gol en línea.
-48,Vuelo,Golpea la pelota en el aire.
-48,MVP del Partido,Sé el mejor jugador en 10 partidas.
-49,Agente,Usa tu habilidad definitiva.
-49,As,Mata a los 5 enemigos en una ronda.
-49,Radiante,Alcanza el rango máximo.
-50,Salto de Fe,Lánzate de la nave de transporte.
-50,Campeón de Apex,Gana tu primera partida.
-50,Líder de Bajas,Conviértete en el Kill Leader.
+idLogro,idJuego,nombre,descripcion
+1,1,Hardware Confiable,Consigue la palanca.
+2,1,Energía Cero,Consigue el arma de gravedad.
+3,1,Defiante,Golpea a un policía con una lata.
+4,1,Ciudadano Modelo,Llega vivo al laboratorio de Kleiner.
+5,1,Cortador de Zombis,Atraviesa Ravenholm usando solo el arma de gravedad.
+6,2,El pastel es mentira,Descubre la verdad sobre las pruebas.
+7,2,Prueba de fuego,Sobrevive al foso de fuego.
+8,2,Velocidad terminal,Cae 30000 pies.
+9,2,Rompecorazones,Incincera al cubo de compañía.
+10,2,Fuga,Escapa de las instalaciones de Aperture.
+11,3,Despierta,Sobrevive al tutorial manual.
+12,3,Monstruo,Despierta a GLaDOS.
+13,3,Patata,Completa la caída al abismo.
+14,3,Vuelve a la luna,Dispara un portal a la luna.
+15,3,Choca esos cinco,Celebra el éxito en cooperativo.
+16,4,Superviviente,Escapa de la primera campaña.
+17,4,Caza de Brujas,Mata a una bruja sin que nadie reciba daño.
+18,4,Masacre Zombi,Mata a 1000 infectados.
+19,4,Fuego Amigo,Incapacíta a un compañero por accidente.
+20,4,Ataque Cuerpo a Cuerpo,Sobrevive a una horda usando solo cuerpo a cuerpo.
+21,5,Primera Sangre,Consigue tu primera baja.
+22,5,Médico de Combate,Cura 1000 puntos de salud en una vida.
+23,5,Ingeniero Jefe,Mejora una torreta al nivel 3.
+24,5,Espía Maestro,Apuñala por la espalda a 10 enemigos.
+25,5,MVP,Termina primero en la tabla de puntuaciones.
+26,6,Nuevo Comienzo,Juega tu primera partida en CS2.
+27,6,El Limpiador,Elimina al equipo enemigo completo tú solo.
+28,6,Desactivador,Desactiva la bomba con menos de un segundo.
+29,6,Ciego,Mata a un enemigo mientras estás cegado.
+30,6,Especialista AK,Consigue 100 bajas con el AK-47.
+31,7,Primera Victoria,Gana tu primera partida de Dota.
+32,7,Racha,Consigue una racha de 5 asesinatos.
+33,7,Destructor,Destruye 3 torres enemigas en una partida.
+34,7,Apoyo,Coloca 50 wards en partidas exitosas.
+35,7,Aegis Robado,Roba el Aegis of the Immortal.
+36,8,Lilas y Grosellas,Encuentra a Yennefer.
+37,8,Rey del Gwent,Gana un torneo de Gwent de alto riesgo.
+38,8,Carnicero de Blaviken,Mata a 5 enemigos en 10 segundos.
+39,8,Mutante,Equipa un mutágeno en cada ranura.
+40,8,Caminante de la Senda,Completa todos los contratos.
+41,9,Ciudad de los Sueños,Llega a Night City.
+42,9,Cibernético,Instala un implante en cada sistema.
+43,9,Leyenda,Alcanza el máximo nivel de reputación.
+44,9,Pistolero,Consigue 100 bajas con revólveres.
+45,9,El Loco,Encuentra todos los murales del Tarot.
+46,10,Descenso del Averno,Escapa del Nautiloide.
+47,10,Sin un Centavo,Lee los pensamientos de un personaje.
+48,10,Maestro de Acción,Realiza 5 ataques en un solo turno.
+49,10,Descanso Largo,Toma un descanso completo.
+50,10,Heroico,Completa el juego en la dificultad más alta.
+51,11,Cazador de Orígenes,Escapa del Fuerte Alegría.
+52,11,Poder Divino,Alcanza la Divinidad.
+53,11,Maestro Táctico,Gana un combate sin perder aliados.
+54,11,Lobo Solitario,Termina usando el talento Lobo Solitario.
+55,11,Ladrón Maestro,Roba 10000 monedas de oro.
+56,12,Sangre de Dragón,Absorbe tu primera alma de dragón.
+57,12,Grito de Guerra,Aprende todas las palabras de un Grito.
+58,12,Artesano,Fabrica un objeto de ébano.
+59,12,Ladrón,Únete al Gremio de Ladrones.
+60,12,Maestro,Alcanza el nivel 100 en una escuela de magia.
+61,13,El Regreso,Sal del Refugio 111.
+62,13,Minutemen,Únete a los Minutemen.
+63,13,Chatarrero,Recolecta 1000 recursos.
+64,13,Alcalde,Alcanza 100% de felicidad en un asentamiento.
+65,13,Armado,Modifica un arma al máximo.
+66,14,Bienvenido a Vegas,Llega al Strip de New Vegas.
+67,14,Mensajero,Entrega el chip de platino.
+68,14,Superviviente,Cura 10000 de daño con comida.
+69,14,Discurso,Gana 50 desafíos de conversación.
+70,14,Rey de la Ruleta,Gana 10000 fichas en los casinos.
+71,15,Hasta el Cuello,Completa el primer nivel.
+72,15,Desgarra y Rompe,Realiza 100 ejecuciones.
+73,15,Armamento Pesado,Encuentra la BFG 9000.
+74,15,Coleccionista,Encuentra todos los coleccionables.
+75,15,Pesadilla,Termina en dificultad Ultra-Pesadilla.
+76,16,Infierno en la Tierra,Completa el primer nivel.
+77,16,Arsenal,Mejora todas las armas al máximo.
+78,16,Dash,Esquiva 100 ataques usando el Dash.
+79,16,Sanguinario,Realiza 50 Glory Kills con la motosierra.
+80,16,Slayer,Completa la campaña principal.
+81,17,Madera,Tala tu primer árbol.
+82,17,Ojo por Ojo,Derrota al Ojo de Cthulhu.
+83,17,Minería,Llega al inframundo.
+84,17,Modo Difícil,Activa el modo difícil.
+85,17,Señor de la Luna,Derrota al Moon Lord.
+86,18,Cosecha,Cosecha tu primer cultivo.
+87,18,Pescador,Atrapa un pez de cada tipo.
+88,18,Amigo,Alcanza 5 corazones con 10 personas.
+89,18,Mina,Llega al nivel 120 de la mina.
+90,18,Restaurador,Completa el Centro Comunitario.
+91,19,Inventario,Abre tu inventario.
+92,19,Edad de Piedra,Extrae piedra con pico de madera.
+93,19,Nether,Construye un portal al Nether.
+94,19,El Fin,Entra al portal del Fin.
+95,19,Cazador de Dragones,Derrota al Ender Dragon.
+96,20,Humo sobre el agua,Construye tu primera caldera.
+97,20,Producción,Produce 10000 circuitos.
+98,20,Defensa,Destruye 100 enemigos con torretas.
+99,20,No hay cuchara,Termina el juego en menos de 8 horas.
+100,20,Lanzamiento,Lanza un cohete al espacio.
+101,21,Aterrizaje,Sobrevive a tu primer mes.
+102,21,Prosperidad,Alcanza 100000 de plata.
+103,21,Médico,Realiza una cirugía exitosa.
+104,21,Invierno,Sobrevive a un invierno tóxico.
+105,21,Escape,Construye una nave y escapa.
+106,22,Fundador,Funda tu primera ciudad.
+107,22,Ciencia,Gana lanzando una expedición a Marte.
+108,22,Maravilla,Construye una Maravilla.
+109,22,Diplomático,Forma una alianza nivel 3.
+110,22,Imperio,Gana una partida en un mapa enorme.
+111,23,Edad Oscura,Avanza a la Edad Feudal.
+112,23,Wololo,Convierte 100 unidades con monjes.
+113,23,Arquitecto,Construye un Castillo.
+114,23,Conquistador,Gana una campaña completa.
+115,23,Rey de reyes,Derrota a 3 oponentes IA en extrema.
+116,24,Comandante,Completa la campaña Wings of Liberty.
+117,24,Enjambre,Eclosiona 1000 Zerglings.
+118,24,Protoss,Construye un ejército dorado.
+119,24,Ataque Rápido,Gana multijugador en menos de 5 min.
+120,24,Maestros,Alcanza la liga de Maestros.
+121,25,Falso Caballero,Derrota al Falso Caballero.
+122,25,Mapamundi,Compra el mapa de Hollownest.
+123,25,Aguijón,Mejora tu aguijón al máximo.
+124,25,Alma Pura,Completa el Palacio Blanco.
+125,25,Vacío,Derrota al Panteón de Hallownest.
+126,26,Primeros Pasos,Supera el primer capítulo.
+127,26,Fresas,Recoge 50 fresas.
+128,26,Lado B,Completa un nivel Lado B.
+129,26,Cima,Llega a la cima de la montaña.
+130,26,Despedida,Completa el capítulo 9.
+131,27,Escapista,Termina el juego por primera vez.
+132,27,Absorción,Absorbe tu primera célula de jefe.
+133,27,Arsenal,Desbloquea 50 armas o habilidades.
+134,27,Maldición,Sobrevive a una maldición.
+135,27,Rey,Completa con 5 Células de Jefe.
+136,28,Fuga,Derrota a las Furias.
+137,28,Sangre de Dios,Derrota a Hades.
+138,28,Amigos,Forja un lazo máximo.
+139,28,Armería,Desbloquea aspectos de armas.
+140,28,Verdadero Escape,Completa el epílogo.
+141,29,Ascensión,Supera el primer Acto.
+142,29,Corazón,Completa el juego con el Ironclad.
+143,29,Intocable,Vence a un jefe sin daño.
+144,29,Ilimitado,Juega 10 cartas en un turno.
+145,29,Final,Completa el Acto 4.
+146,30,Lágrimas,Completa el juego.
+147,30,Pacto,Haz un trato con el demonio.
+148,30,Satanás,Derrota a Mega Satanás.
+149,30,Golden God,Completa con personajes originales.
+150,30,Platinum God,Consigue todos los objetos.
+151,31,Mojándose,Entra al océano por primera vez.
+152,31,Hogar,Construye una base submarina.
+153,31,Profundidades,Alcanza la Zona Lava.
+154,31,Leviatán,Encuentra al Emperador Marino.
+155,31,Dejando el Planeta,Lanza el cohete de escape.
+156,32,Despegue,Lanza tu nave espacial.
+157,32,Ojo,Encuentra la anomalía cuántica.
+158,32,Historiador,Traduce todos los textos Nomai.
+159,32,Bucle,Sobrevive a la explosión de la supernova.
+160,32,Rompecabezas,Aterriza en la estación solar.
+161,33,Primer Salto,Realiza un salto hiperespacial.
+162,33,Explorador,Descubre 50 planetas diferentes.
+163,33,Centro,Llega al centro del universo.
+164,33,Linguista,Aprende 100 palabras alienígenas.
+165,33,Magnate,Acumula 100 millones de unidades.
+166,34,Bienvenido a Rust,Despierta en la playa.
+167,34,Constructor,Construye tu primera base.
+168,34,Pólvora,Fabrica tu primera arma de fuego.
+169,34,Incursión,Destruye una pared con C4.
+170,34,Alfa,Sobrevive un wipe completo sin morir.
+171,35,Bienvenido a Los Santos,Completa el prólogo.
+172,35,Atraco,Completa el golpe al Pacific Standard.
+173,35,Sueño,Compra un apartamento de lujo.
+174,35,Tuning,Mejora un vehículo al máximo.
+175,35,Mente Maestra,Completa el juego al 100%.
+176,36,Forajido,Escapa a las montañas nevadas.
+177,36,Redención,Completa la historia de Arthur.
+178,36,Cazador,Caza a todos los animales legendarios.
+179,36,Tesoro,Encuentra 3 tesoros ocultos.
+180,36,Leyenda del Oeste,Completa el juego al 100%.
+181,37,Brazo Shinobi,Consigue la prótesis.
+182,37,Muerte Desde Arriba,Ejecuta a 100 enemigos desde el aire.
+183,37,Inmortal,Derrota al Simio Guardián.
+184,37,Espadachín,Derrota a Isshin.
+185,37,Sekiro,Desbloquea todos los trofeos.
+186,38,Encender,Enciende tu primera hoguera.
+187,38,Señor de la Ceniza,Derrota a los Vigilantes del Abismo.
+188,38,Fin del Fuego,Llega al final de la Era de Fuego.
+189,38,Parry Perfecto,Realiza 50 contraataques.
+190,38,Alma Oscura,Consigue todos los logros.
+191,39,Sin Luz,Llega a las Tierras Intermedias.
+192,39,Gran Runa,Consigue la Gran Runa de Godrick.
+193,39,Estrellas Caídas,Derrota a Radahn.
+194,39,Señor de Elden,Conviértete en el Señor del Círculo.
+195,39,Platino,Consigue todos los logros.
+196,40,Bienvenido a Rapture,Llega a la ciudad submarina.
+197,40,Modificada,Equipa tu primer plásmido.
+198,40,Salvador,Rescata a todas las Little Sisters.
+199,40,Big Daddy,Derrota a tu primer Big Daddy.
+200,41,Ascensión,Llega a Columbia.
+201,41,Vigorizador,Usa los 8 vigores contra enemigos.
+202,41,Rescate,Encuentra a Elizabeth.
+203,41,Pájaro y Jaula,Completa el juego.
+204,42,Deshonrado,Escapa de la prisión.
+205,42,Fantasma,Completa misión sin ser detectado.
+206,42,Manos Limpias,Completa el juego sin matar.
+207,43,Buenos Días,Rompe el cristal de simulación.
+208,43,Neuro,Instala un alien neuromod.
+209,43,No Eres Tú,Mata a un Mimic disfrazado.
+210,44,Resistencia,Completa la misión tutorial.
+211,44,Táctico,Gana una misión sin perder soldados.
+212,44,Supremo,Completa el juego en dificultad Leyenda.
+213,45,Amnesia,Despierta en la habitación.
+214,45,Policía Bueno,Resuelve el asesinato sin violencia.
+215,45,Comunista,Únete al club de lectura.
+216,46,Buscador,Completa tu primer contrato.
+217,46,Superviviente,Sobrevive a una cacería.
+218,46,Profesional,Identifica al fantasma en Profesional.
+219,47,Tripulante,Completa tus tareas.
+220,47,Impostor,Gana una partida como el Impostor.
+221,47,Detective,Vota correctamente al impostor 5 veces.
+222,48,Primer Gol,Marca un gol en línea.
+223,48,Vuelo,Golpea la pelota en el aire.
+224,48,MVP del Partido,Sé el mejor jugador en 10 partidas.
+225,49,Agente,Usa tu habilidad definitiva.
+226,49,As,Mata a los 5 enemigos en una ronda.
+227,49,Radiante,Alcanza el rango máximo.
+228,50,Salto de Fe,Lánzate de la nave de transporte.
+229,50,Campeón de Apex,Gana tu primera partida.
+230,50,Líder de Bajas,Conviértete en el Kill Leader.

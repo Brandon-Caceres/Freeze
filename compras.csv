@@ -1,0 +1,9 @@
+idUsuario,idJuego,fechaCompra,metodoPago,precioPagado
+1,1,2024-01-15 14:00:00,Tarjeta de Crédito,9.99
+1,8,2025-06-20 18:30:00,PayPal,39.99
+1,39,2026-03-10 10:00:00,Tarjeta de Crédito,59.99
+2,6,2023-12-25 09:00:00,Tarjeta de Regalo,0.0
+2,24,2025-11-15 20:00:00,PayPal,0.0
+3,19,2022-01-10 20:00:00,Tarjeta de Débito,29.99
+3,20,2024-05-05 16:00:00,Tarjeta de Crédito,35.0
+4,50,2023-08-14 12:00:00,Gratis,0.0

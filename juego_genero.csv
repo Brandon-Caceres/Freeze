@@ -1,62 +1,62 @@
-idJuego,idGenero
-1,1
-2,1
-3,1
-4,1
-5,1
-6,1
-7,3
-8,2
-8,6
-9,2
-9,6
-10,2
-11,2
-12,2
-12,6
-13,2
-13,6
-14,2
-14,6
-15,1
-16,1
-17,4
-17,5
-18,4
-19,5
-19,6
-20,3
-21,3
-22,3
-23,3
-24,3
-25,4
-26,4
-27,4
-28,4
-29,3
-29,4
-30,4
-31,5
-32,4
-32,6
-33,5
-33,6
-34,5
-35,6
-36,6
-37,2
-38,2
-39,2
-39,6
-40,1
-41,1
-42,1
-43,1
-44,3
-45,2
-46,4
-47,4
-48,1
-49,1
-50,1
+idJuego,genero
+1,FPS
+2,FPS
+3,FPS
+4,FPS
+5,FPS
+6,FPS
+7,Estrategia
+8,RPG
+8,Mundo Abierto
+9,RPG
+9,Mundo Abierto
+10,RPG
+11,RPG
+12,RPG
+12,Mundo Abierto
+13,RPG
+13,Mundo Abierto
+14,RPG
+14,Mundo Abierto
+15,FPS
+16,FPS
+17,Indie
+17,Supervivencia
+18,Indie
+19,Supervivencia
+19,Mundo Abierto
+20,Estrategia
+21,Estrategia
+22,Estrategia
+23,Estrategia
+24,Estrategia
+25,Indie
+26,Indie
+27,Indie
+28,Indie
+29,Estrategia
+29,Indie
+30,Indie
+31,Supervivencia
+32,Indie
+32,Mundo Abierto
+33,Supervivencia
+33,Mundo Abierto
+34,Supervivencia
+35,Mundo Abierto
+36,Mundo Abierto
+37,RPG
+38,RPG
+39,RPG
+39,Mundo Abierto
+40,FPS
+41,FPS
+42,FPS
+43,FPS
+44,Estrategia
+45,RPG
+46,Indie
+47,Indie
+48,FPS
+49,FPS
+50,FPS
